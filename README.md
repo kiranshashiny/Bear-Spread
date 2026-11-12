@@ -43,6 +43,20 @@ With **INTC currently trading at $100**, here is the complete expiration breakdo
 * **What happens:** Your short $105 call is in-the-money (ITM), while your $110 call expires worthless. Your broker automatically debits the intrinsic value of the $105 call at expiration (or you buy it back before the bell).
 * **Result:** Because you collected $2.00 upfront, you still walk away with a **net profit** anywhere below **$107.00**. For example, at $106.00, the $105 call costs $1.00 to settle, leaving you with **+$1.00 ($100)** profit.
 
+
+Think of this zone like having a **$2.00 head start** in a race.
+
+Even though the stock went slightly above your **$105** limit, you still walk away with a profit because of the money you collected upfront.
+
+Here is how it works in plain English, using **$106** as an example:
+
+1. **You started with +$2.00 in your pocket:** When you opened the trade, you collected $2.00 per share ($200 total). That money is yours to keep right away.
+2. **The $110 protection does nothing:** Since INTC finished at $106, your $110 safety net wasn't needed and simply expires.
+3. **You have to pay back the extra $1.00 above $105:** Because you promised to sell INTC at $105, and it is now worth $106, you owe the **$1.00 difference** per share ($100 total) to close out that promise.
+4. **You keep the leftover $1.00:** You take the $2.00 you collected at the start, pay the $1.00 you owe at the finish, and pocket the remaining **+$1.00 per share ($100 profit)**.
+
+**In short:** Your $2.00 upfront payment acts like a cushion. As long as INTC finishes below **$107** ($105 + your $2.00 cushion), you pay back less than what you collected upfront, so you still make money.
+
 #### 3. INTC Closes Between $107.01 and $109.99 (Partial Loss & Pin Risk Zone)
 
 * **What happens:** The cost to settle the short $105 call exceeds your initial $2.00 credit, while the $110 call still expires worthless.
