@@ -4,6 +4,8 @@
     Bull Spread: Designed to profit when the underlying asset goes up (e.g., Bull Call Spread or Bull Put Spread). You buy an option at a lower strike and sell an option at a higher strike.
 
     Bear Spread (The Opposite): Designed to profit when the underlying asset goes down.
+    
+    Yes, but with an important bonus: a Bear Call Spread works when you think the stock will go down, stay flat, or even rise just a little bit.
 
         Bear Put Spread: You buy a put option at a higher strike and sell a put option at a lower strike (paying a net debit). You profit if the stock price falls.
 
